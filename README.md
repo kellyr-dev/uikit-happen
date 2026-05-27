@@ -1,4 +1,4 @@
-# 📱 iOS Login & Registration System
+# 📱 iOS Login & Registration
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.10-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2015%20%2B-blue.svg)](https://developer.apple.com/ios/)
@@ -19,7 +19,7 @@ Below is the visual flow of the application, showcasing everything from access c
 
 | 3. Login Screen | 4. Profile Screen |
 |:---:|:---:|
-| <img src="Screenshots/login_screen.png" width="250" alt="Login Screen"> | <img src="Screenshots/profile_screen" width="250" alt="Profile Screen"> |
+| <img src="Screenshots/login_screen.png" width="250" alt="Login Screen"> | <img src="Screenshots/profile_screen.png" width="250" alt="Profile Screen"> |
 | *Interactive feedback using `UIAlertController`.* | *Successful session dashboard with dynamic data injection.* |
 
 ## Data Flow
